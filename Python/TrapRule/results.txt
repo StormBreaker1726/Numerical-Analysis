@@ -1,0 +1,37 @@
+Esperado: 11.822489758289
+
+
+Resultado foi de 11.82248975828904, com erro de -3.3055516448560076e-15, usando 1 passos
+Resultado foi de 10.640240782460138, com erro de 0.09999999999999683, usando 10 passos
+Resultado foi de 11.704264860706164, com erro de 0.009999999999995447, usando 100 passos
+Resultado foi de 11.810667268530777, com erro de 0.000999999999994481, usando 1000 passos
+Resultado foi de 11.821307509313852, com erro de 9.999999994241232e-05, usando 10000 passos
+Resultado foi de 11.822371533371005, com erro de 1.0000001726620748e-05, usando 100000 passos
+Resultado foi de 11.822477936093348, com erro de 9.999751232067354e-07, usando 1000000 passos
+Resultado foi de 11.822488573458447, com erro de 1.002183616051004e-07, usando 10000000 passos
+Resultado foi de 11.822489163411982, com erro de 5.031740614016966e-08, usando 20000000 passos
+Resultado foi de 11.82248936006316, com erro de 3.3683754268441966e-08, usando 30000000 passos
+Resultado foi de 11.822489531637146, com erro de 1.9171245588010608e-08, usando 50000000 passos
+Resultado foi de 11.822489576042456, com erro de 1.541524236369669e-08, usando 60000000 passos
+Resultado foi de 11.822489607760534, com erro de 1.2732382874828936e-08, usando 70000000 passos
+Resultado foi de 11.822489631549091, com erro de 1.0720238445993554e-08, usando 80000000 passos
+Resultado foi de 11.822489650051304, com erro de 9.155237039924275e-09, usando 90000000 passos
+Resultado foi de 11.822489651677872, com erro de 9.017654571380859e-09, usando 91000000 passos
+Resultado foi de 11.82248965326908, com erro de 8.8830628758143e-09, usando 92000000 passos
+Resultado foi de 11.82248965482607, com erro de 8.751365641469854e-09, usando 93000000 passos
+Resultado foi de 11.82248965634993, com erro de 8.622470613406161e-09, usando 94000000 passos
+Resultado foi de 11.822489657841707, com erro de 8.496289292990548e-09, usando 95000000 passos
+Resultado foi de 11.822489657841707, com erro de 8.496289292990548e-09, usando 95000000 passos
+Resultado foi de 11.822489657841707, com erro de 8.496289292990548e-09, usando 95000000 passos
+Resultado foi de 11.82248965930241, com erro de 8.372736487141986e-09, usando 96000000 passos
+Resultado foi de 11.822489660732993, com erro de 8.251731209845174e-09, usando 97000000 passos
+Resultado foi de 11.82248966213438, com erro de 8.133195480131764e-09, usando 98000000 passos
+Resultado foi de 11.822489663507458, com erro de 8.017054322080358e-09, usando 99000000 passos
+Resultado foi de 11.822488573458447, com erro de 1.002183616051004e-07, usando 10000000 passos
+Resultado foi de 11.822489664853073, com erro de 7.903236065321201e-09, usando 100000000 passos
+Resultado foi de 11.822489674448857, com erro de 7.091580997788323e-09, usando 200000000 passos
+Resultado foi de 11.822489804077643, com erro de -3.873011789167404e-09, usando 500000000 passos
+Resultado foi de 11.822489767232144, com erro de -7.564517540543934e-10, usando 600000000 passos
+Resultado foi de 11.822489564990166, com erro de 1.6350095341033353e-08, usando 1000000000 passos
+Resultado foi de 11.822489564990166, com erro de 1.6350095341033353e-08, usando 1000000000 passos
+Resultado foi de 11.82219419604507, com erro de 2.499999999777352e-05, usando 40000 passos
